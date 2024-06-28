@@ -425,6 +425,14 @@ public class Wander : MonoBehaviour
 }
 ```
 
+# Images/Design
+
+Here is an app icon concept art that I used AI to generate:
+<br><img src="https://tse3.mm.bing.net/th?id=OIG4.2.wsETXUprrtwKsCtBMd&pid=ImgGn" width="100" height="100">
+
+This is the original sketch of the game design:
+![image](https://github.com/rufus-gh/Fishies.io/assets/135003986/9fdb161d-ce3d-4461-b88d-42561069c7a1)
+
 # References
 - Unity Documentation: Input.mousePosition
 - Unity Documentation: Input.GetMouseButton
